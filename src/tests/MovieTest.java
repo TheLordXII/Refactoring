@@ -24,4 +24,14 @@ public class MovieTest{
     public void getTitle(){
         assertEquals("Friday the 13th", movie.getTitle());
     }
+
+    @Test
+    public void getFrequentRenterPoints() {
+        assertEquals(1, movie.getFrequentRenterPoints(0));
+    }
+
+    @Test
+    public void getCharge() {
+        assertEquals(14.0, movie.getCharge(10), 0);
+    }
 }
