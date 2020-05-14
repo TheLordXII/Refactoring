@@ -2,9 +2,13 @@
 import java.lang.*;
 import java.util.*;
 
+package classes;
+
 class Customer {
     private String name;
     private Vector rentals = new Vector();
+
+
     public Customer (String newname){
         name = newname;
     }

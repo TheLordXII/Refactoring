@@ -19,7 +19,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$/Jdk" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -42,10 +42,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="#Project_Structure/0.0.1920.1040/1920.-114.1920.1160@0.0.1920.1040" timestamp="1589465479085" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1589465478359">
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589467368601">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/1920.-114.1920.1160@0.0.1920.1040" timestamp="1589465478359" />
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.-114.1920.1160@0.0.1920.1040" timestamp="1589467368601" />
+    <state x="708" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589466930515">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="708" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.-114.1920.1160@0.0.1920.1040" timestamp="1589466930515" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1589467322855">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/1920.-114.1920.1160@0.0.1920.1040" timestamp="1589467322855" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1589465454142">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
