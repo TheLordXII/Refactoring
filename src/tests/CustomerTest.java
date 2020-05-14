@@ -22,8 +22,12 @@ public class CustomerTest{
 
     @Test
     public void statement(){
-        assertTrue(customer.statement().startsWith("Rental Record"));
-        assertTrue(customer.statement().endsWith("points"));
+        String statement = "Rental Record for Ted" + "\n";
+        statement += "\t" + "Title" + "\t" + "\t" + "Days" + "\t" + "Amount" + "\n";
+        statement += "Amount owed is " + "0.0" + "\n";
+        statement += "You earned " + "0" + " frequent renter points";
+
+        assertEquals(statement, customer.statement());
     }
 
 }
