@@ -7,13 +7,16 @@ class Customer {
     private Vector rentals = new Vector();
     public Customer (String newname){
         name = newname;
-    };
+    }
+
     public void addRental(Rental arg) {
         rentals.addElement(arg);
-    };
+    }
+
     public String getName (){
         return name;
-    };
+    }
+
     public String statement() {
         double totalAmount = 0;
         int frequentRenterPoints = 0;
@@ -56,6 +59,9 @@ class Customer {
                 thisAmount += 1.5;
                 if (each.getDaysRented() > 3)
                     thisAmount += (each.getDaysRented() - 3) * 1.5;
+                break;
+            default:
+                System.out.println("Error in Switch-Case");
                 break;
         }
         return thisAmount;

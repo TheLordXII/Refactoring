@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a4fca0fd-fe62-49c1-b11f-e86fbbb77b3e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1btwFFhn0aTsWaAFvRK6oaHvoxH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4fca0fd-fe62-49c1-b11f-e86fbbb77b3e" name="Default Changelist" comment="" />
+      <created>1589464591679</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589464591679</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="94" key="#Project_Structure" timestamp="1589465479085">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040/1920.-114.1920.1160@0.0.1920.1040" timestamp="1589465479085" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1589465478359">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/1920.-114.1920.1160@0.0.1920.1040" timestamp="1589465478359" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1589465454142">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/1920.-114.1920.1160@0.0.1920.1040" timestamp="1589465454142" />
+  </component>
+</project>

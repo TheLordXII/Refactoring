@@ -11,10 +11,12 @@ public class Movie {
     public int getPriceCode() {
         return priceCode;
     }
+
     public void setPriceCode(int arg) {
         priceCode = arg;
     }
+
     public String getTitle (){
         return title;
-    };
+    }
 }
